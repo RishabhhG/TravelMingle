@@ -9,23 +9,35 @@ The AI Trip Planner is a web application designed to create personalized travel 
 User Interface:
 
 Home Page: Welcome page with a header and a call-to-action button to get started.
+<br />
 Create Trip Page: Form to collect travel preferences including destination, duration, budget, and travel companions.
+<br />
 Authentication:
 
 Google Authentication: Users can log in using Google Auth.
+<br />
 Local Storage: Stores successful authentication results locally.
+<br />
 Prompt Generation and AI Integration:
+<br />
 
 Prompt Generation: Generates a prompt based on user input for the AI model.
+<br />
 Google Gemini AI Model: Processes the prompt to create a travel itinerary.
+<br />
 Data Storage and Retrieval:
 
 Firebase: Saves the AI-generated itinerary.
+<br />
 Google Place API and Photo API: Retrieves place names and images.
+<br />
 Results Display:
+<br />
 
 Itinerary Page: Displays the generated trip plan, including hotel recommendations and daily schedules.
+<br />
 My Trips Page: Allows users to view their saved trips.
+<br />
 
 
 
