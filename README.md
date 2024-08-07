@@ -83,6 +83,16 @@ Results Display:
 The itinerary page shows detailed plans including hotel recommendations and daily schedules.
 The "My Trips" page lists all saved trips for the user.
 
+<br />
+
+![3](https://github.com/user-attachments/assets/5368ec93-6cf6-4a23-ace3-b782dd3c8ba2)
+
+![4](https://github.com/user-attachments/assets/0f729ec3-75ca-4f95-b6f4-a0c802306e31)
+
+
+![5](https://github.com/user-attachments/assets/28db2599-7673-4ca3-ac00-19b83a754209)
+
+
 
 ## Technologies Used
 
